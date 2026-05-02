@@ -29,9 +29,9 @@ export default function PublicHeader() {
           )}
 
           {/* Small Title */}
-          {/* <span className={`text-sm font-semibold `}>
-            {brand.siteName}
-          </span> */}
+          <span className={`text-sm font-semibold `}>
+           Brilliant Brains Academy
+          </span>
 
         </Link>
 
