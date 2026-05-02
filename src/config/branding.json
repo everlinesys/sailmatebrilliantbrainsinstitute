@@ -1,22 +1,22 @@
 {
   "default": {
-    "siteName": "Adapts Academy",
-    "tagline": "Engineering Skills that Build Real Careers",
+    "siteName": "Sailmate Brilliant Brains Institute",
+    "tagline": "Building Careers in Marine Engineering",
 
-    "primaryColor": "#0f172a",
+    "primaryColor": "#0c1e3a",
     "theme": "schoolAcademic",
 
-    "logo": "/Icon.jpg",
-    "students": "500+",
+    "logo": "/logo.png",
+    "students": "300+",
 
     "colors": {
-      "primary": "#0f172a",
-      "accent": "#f97316"
+      "primary": "#0c1e3a",
+      "accent": "#06b6d4"
     },
 
     "hero": {
-      "title": "Master MEP Engineering with Industry-Focused Training",
-      "subtitle": "Practical, job-oriented training in Mechanical, Electrical, and Plumbing (MEP) systems designed for real-world engineering careers.",
+      "title": "Launch Your Marine Career with Expert Coaching",
+      "subtitle": "Specialized training programs for GME & ETO sponsorship and marine engineering skills designed to help you succeed in the maritime industry.",
       "image": "/hero.png",
 
       "bunnyVideoId": "",
@@ -24,10 +24,10 @@
     },
 
     "preview": {
-      "badge": "MEP Engineering Academy",
-      "title": "Skill Development for Engineers",
-      "highlight": "Practical • Industry Ready • Career Focused",
-      "description": "Adapts Academy offers specialized skill development programs in MEP Engineering. Our courses are designed to bridge the gap between academic learning and industry requirements, helping students and professionals build strong practical knowledge.",
+      "badge": "Marine Coaching Institute",
+      "title": "Career-Focused Maritime Training",
+      "highlight": "Sponsorship • Practical • Career Ready",
+      "description": "Sailmate Brilliant Brains Institute provides focused coaching for marine engineering aspirants. Our programs are designed to help students secure sponsorships and gain essential technical knowledge required in the maritime field.",
 
       "bunnyVideoId": "",
       "libraryId": "",
@@ -36,63 +36,55 @@
       "videoUrl": "",
 
       "perks": [
-        { "value": "PRACTICAL", "label": "Hands-on Industry Training" },
-        { "value": "CAREER", "label": "Job-Oriented Skill Development" }
+        { "value": "SPONSORSHIP", "label": "Guidance for Company Sponsorship" },
+        { "value": "TECHNICAL", "label": "Strong Concept-Based Training" }
       ]
     },
 
     "pricingInfo": {
       "title": "Program Highlights",
       "items": [
-        "Comprehensive MEP training modules",
-        "Real project-based learning",
-        "Affordable course fees",
-        "Flexible learning options",
-        "Certification on completion"
+        "Focused sponsorship coaching",
+        "Experienced maritime trainers",
+        "Affordable course structure",
+        "Interview preparation support",
+        "Certification guidance"
       ]
     },
 
     "schedule": {
       "title": "Training Format",
       "details": [
-        "Online & Offline training available",
-        "Weekend & weekday batches",
-        "Flexible timings for working professionals",
-        "Live project exposure",
-        "Doubt clearing sessions"
+        "Online & offline classes available",
+        "Flexible batch timings",
+        "Weekend & weekday sessions",
+        "Personal mentorship",
+        "Mock interviews & tests"
       ]
     },
 
     "features": [
-      "Mechanical (HVAC) system training",
-      "Electrical system design & execution",
-      "Plumbing & fire fighting systems",
-      "AutoCAD & MEP drafting",
-      "Real-world project exposure",
-      "Career guidance & support"
+      "GME Sponsorship Coaching",
+      "ETO Sponsorship Coaching",
+      "Electrical Line Diagram Reading",
+      "Interview preparation",
+      "Marine technical fundamentals",
+      "Career guidance support"
     ],
 
     "courses": {
       "categories": [
         {
-          "title": "MEP Core Programs",
+          "title": "Sponsorship Coaching",
           "items": [
-            "HVAC Design & Drafting",
-            "Electrical System Design",
-            "Plumbing System Design",
-            "Fire Fighting System Design"
+            "GME Sponsorship Coaching",
+            "ETO Sponsorship Coaching"
           ]
         },
         {
-          "title": "Software Training",
-          "items": ["AutoCAD for MEP", "Revit MEP", "MEP Project Drafting"]
-        },
-        {
-          "title": "Advanced Programs",
+          "title": "Technical Training",
           "items": [
-            "Complete MEP Master Course",
-            "Site Execution Training",
-            "Project Management Basics"
+            "Electrical Line Diagram Reading for Marine Engineers"
           ]
         }
       ]
@@ -100,40 +92,40 @@
 
     "team": [
       {
-        "name": "Adapts Faculty",
-        "role": "MEP Industry Experts",
-        "qualification": "Experienced Engineers & Trainers",
+        "name": "Marine Faculty",
+        "role": "Experienced Maritime Trainers",
+        "qualification": "Marine Engineers & Industry Experts",
         "image": "/team.jpg"
       }
     ],
 
     "reviews": [
       {
-        "name": "Rahul Nair",
-        "role": "Engineering Graduate",
+        "name": "Arjun S",
+        "role": "GME Aspirant",
         "rating": 5,
-        "text": "Best place to learn MEP practically. Helped me land my first job."
+        "text": "Excellent coaching for sponsorship preparation. Highly useful guidance."
       },
       {
-        "name": "Anas P",
-        "role": "Diploma Student",
+        "name": "Faisal K",
+        "role": "Marine Student",
         "rating": 5,
-        "text": "Clear teaching and real project exposure. Highly recommended."
+        "text": "Clear concepts and great support for interviews."
       },
       {
-        "name": "Shameer K",
-        "role": "Working Professional",
+        "name": "Nithin Raj",
+        "role": "ETO Candidate",
         "rating": 4,
-        "text": "Good for upgrading skills in HVAC and electrical systems."
+        "text": "Good training for electrical basics and diagram reading."
       }
     ],
 
     "contact": {
-      "email": "prasanth@adaptsengineers.com",
-      "phone": "+91 98959 48492",
-      "whatsapp": "9895948492",
+      "email": "brilliantbrainsinstitute@gmail.com",
+      "phone": "+91 86064 27768",
+      "whatsapp": "8606427768",
       "address": "Kerala, India",
-      "supportName": "Adapts Academy Support",
+      "supportName": "Sailmate Support Team",
       "image": "/support.jpg"
     }
   }
